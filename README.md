@@ -1,3 +1,7 @@
+# GitHub Light
+GitHub Light is a fork from GitHub dark intended to introduce the same syntax highlighting themes into a bright GitHub page.
+
+# GitHub Dark
 <p align="center">
   <img alt="githubdark-logo" src="https://rawgit.com/StylishThemes/logos/master/github.dark/githubdark-mini.svg" width="580">
   <br>

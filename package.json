@@ -1,10 +1,10 @@
 {
-  "name": "github-dark",
+  "name": "github-light",
   "version": "1.16.16",
-  "description": "Dark GitHub theme for Stylish",
+  "description": "Light GitHub theme for Stylish",
   "license": "CC-BY-SA-4.0",
   "repository": "StylishThemes/GitHub-Dark",
-  "homepage": "https://userstyles.org/styles/37035/github-dark",
+  "homepage": "https://github.com/dnut/GitHub-Light",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-clean": "^1.0.0",
