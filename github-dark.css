@@ -25,6 +25,9 @@
   .blob-num {
     color: #7b7b7b !important;
   }
+  .blame-commit-info {
+    background: #ffffff !important;
+  }
   /* diff */
  /* Green text */
   .text-open, a.text-open, .text-success, a.text-success, .insertions,
