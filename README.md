@@ -1,5 +1,5 @@
 # GitHub Highlighter
-GitHub Highlighter is a fork from GitHub dark intended to syntax highlighting themes for code into the standard white GitHub color scheme.
+GitHub Highlighter is a fork of GitHub Dark that introduces syntax highlighting themes for code without disrupting the overall GitHub color scheme.
 
 ## Installing
 
