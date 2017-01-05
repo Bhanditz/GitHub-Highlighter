@@ -28,6 +28,9 @@
   .blame-commit-info {
     background: #ffffff !important;
   }
+  .CodeMirror-lines {
+    background: #2b303b !important;
+  }
   /* diff */
  /* Green text */
   .text-open, a.text-open, .text-success, a.text-success, .insertions,
