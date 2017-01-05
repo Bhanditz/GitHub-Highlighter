@@ -12,7 +12,7 @@ module.exports = function(grunt) {
       'theme'    : 'Twilight',
       'color'    : '#4183C4',
       'font'     : 'Menlo',
-      'image'    : 'url(https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/images/backgrounds/bg-tile1.png)',
+      'image'    : 'url(https://raw.githubusercontent.com/dnut/GitHub-Highlighter/master/images/backgrounds/bg-tile1.png)',
       'tiled'    : true,
       'codeWrap' : false,
       'attach'   : 'scroll',
