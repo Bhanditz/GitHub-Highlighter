@@ -28,7 +28,7 @@
   .blame-commit-info {
     background: #ffffff !important;
   }
-  .CodeMirror-lines {
+  .CodeMirror-lines, .markdown-body pre code {
     background: #2b303b !important;
   }
   /* diff */
